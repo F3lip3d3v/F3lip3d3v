@@ -1,4 +1,4 @@
--t 👋 Hi, I’m @F3lip3d3 tenho 27 
+-t 👋 Hi, I’m @Felipe Nóbrega tenho 27 
 - 👀 I’m interested  em trabalhaer e conhecer mais pessoas da minha area
 - 🌱 I’m currently learnin  SQL ,Python, front end
 - 💞️ I’m looking to collaborate on ...
